@@ -1,0 +1,6 @@
+@piedteam_net1_2_hocmienphi.api_HostAddress = http://localhost:5069
+
+GET {{piedteam_net1_2_hocmienphi.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
